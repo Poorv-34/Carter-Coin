@@ -1,48 +1,24 @@
-#map iframe
-{
-    width: 50%;
-    float: left;
-    padding-top: 5px;
+.heading{
+    font-size: 20px;
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 5px gray;
 }
 
-.contact_1 h3
-{
-    display: inline;
+.note{
+    font-size: 20px;
+    color: black;
 }
-.contact_1 a
-{
-    text-shadow: none;
+.copy_right_footer{
+    position: fixed;
+    color: gray;
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+    bottom:0px;
 }
-#footer{
-  height: 20px;
-  background-color:white;
-  }
-
-input
-{
-    background: grey
-}
-
-.announcement{
-background-color:#337ab7;
-width: 100%;
-height: 30px;
-}
-
-#marqueeStyle{
-  width:100%;
-  direction:right;
-  height:100px;
-  color: beige;
-  font-size:120%;
-}
-
-#video{
-  width:100%;
-  height:500px;
-  border: none;
-}
-
-p {
-  font-size: 22px;
+canvas{
+    border: 5px black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
 }
